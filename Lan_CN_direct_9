@@ -14,3 +14,6 @@ IP-CIDR6,fe80::/10
 # 剩余未匹配的国内网站
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
+
+# 最终规则
+GEOIP,CN
