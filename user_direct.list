@@ -1,2 +1,5 @@
 #用户直连
-DOMAIN,a.bmogu.top
+DOMAIN-SUFFIX,bmogu.top
+DOMAIN,dash.cloudflare.com
+DOMAIN,hifini.com
+DOMAIN,yrxitong.com
