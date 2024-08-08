@@ -1,5 +1,5 @@
 #用户直连
 DOMAIN-SUFFIX,bmogu.top
-DOMAIN,dash.cloudflare.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,yrxitong.com
 DOMAIN,hifini.com
-DOMAIN,yrxitong.com
