@@ -1,9 +1,7 @@
-aliyun.2096.us.kg:443#链接自适应
-aliyun.2096.us.kg:443#链接自适应
-sage.ns.cloudflare.com:443#链接自适应
-duke.ns.cloudflare.com:443#链接自适应
-kip.ns.cloudflare.com:443#链接自适应
-melina.ns.cloudflare.com:443#链接自适应
+sage.ns.cloudflare.com:443#Coin Test
+duke.ns.cloudflare.com:443#Coin Test
+kip.ns.cloudflare.com:443#Coin Test
+melina.ns.cloudflare.com:443#Coin Test
 206.237.24.248:15423#HK
 103.234.53.199:23660#HK
 #HK
